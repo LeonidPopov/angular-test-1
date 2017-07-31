@@ -1,0 +1,19 @@
+.back_btn{
+    width: 100px;
+    height: 30px;
+    border: 1px solid black;
+    line-height: 30px;
+    text-align: center;
+    cursor: pointer;
+}
+
+li{
+	font-size: 15px;
+	height: 30px;
+	cursor: pointer;
+	border: 1px solid;
+	line-height: 30px;
+	padding: 0 0 0 10px;
+	list-style: none;
+	margin: 10px;
+}
